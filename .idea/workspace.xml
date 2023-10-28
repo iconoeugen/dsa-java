@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="232ffbd0-5542-4be4-a5d5-3078b49ed8f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/session1/src/main/java/eu/vlad/digitalstack/dsa/TrianglePattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session1/src/main/java/eu/vlad/digitalstack/dsa/ContainsDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/session1/src/main/java/eu/vlad/digitalstack/dsa/ContainsDuplicates.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,20 @@
     "onboarding.tips.debug.path": "/home/vlad/work/git/digitalstack/dsa-java/session1/src/main/java/eu/vlad/digitalstack/dsa/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TrianglePattern">
+  <component name="RunManager" selected="Application.ContainsDuplicates">
+    <configuration name="ContainsDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eu.vlad.digitalstack.dsa.ContainsDuplicates" />
+      <module name="dsa-java.session1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eu.vlad.digitalstack.dsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FizzBuzz" />
       <module name="dsa-java.session1" />
@@ -98,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContainsDuplicates" />
         <item itemvalue="Application.TrianglePattern" />
         <item itemvalue="Application.eu.vlad.digitalstack.dsa.FizzBuzz" />
         <item itemvalue="Application.FizzBuzz" />
