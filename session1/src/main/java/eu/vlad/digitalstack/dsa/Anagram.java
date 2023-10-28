@@ -37,8 +37,8 @@ public class Anagram {
     }
 
     public static void main(String[] args) {
-        System.out.println("Contain pairs: " + anagram("blah", "hlab"));
-        System.out.println("Contain pairs: " + anagram("foo", "boo"));
-        System.out.println("Contain pairs: " + anagram("foo", "alice"));
+        System.out.println("Anagrams: " + anagram("blah", "hlab"));
+        System.out.println("Anagrams: " + anagram("foo", "boo"));
+        System.out.println("Anagrams: " + anagram("foo", "alice"));
     }
 }
