@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="232ffbd0-5542-4be4-a5d5-3078b49ed8f6" name="Changes" comment="" />
+    <list default="true" id="232ffbd0-5542-4be4-a5d5-3078b49ed8f6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/session1/src/main/java/eu/vlad/digitalstack/dsa/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/session1/src/main/java/eu/vlad/digitalstack/dsa/FizzBuzz.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +32,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -46,11 +55,40 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "17",
-    "onboarding.tips.debug.path": "/home/vlad/work/git/digitalstack/dsa-java/src/main/java/eu/vlad/digitalstack/dsa/Main.java"
+    "onboarding.tips.debug.path": "/home/vlad/work/git/digitalstack/dsa-java/session1/src/main/java/eu/vlad/digitalstack/dsa/Main.java"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.eu.vlad.digitalstack.dsa.FizzBuzz">
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FizzBuzz" />
+      <module name="dsa-java.session1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eu.vlad.digitalstack.dsa.FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eu.vlad.digitalstack.dsa.FizzBuzz" />
+      <module name="dsa-java.session1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eu.vlad.digitalstack.dsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.eu.vlad.digitalstack.dsa.FizzBuzz" />
+        <item itemvalue="Application.FizzBuzz" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,6 +107,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/eu/vlad/digitalstack/dsa/Main.java</url>
           <line>15</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/session1/src/main/java/eu/vlad/digitalstack/dsa/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/session1/src/main/java/eu/vlad/digitalstack/dsa/FizzBuzz.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
